@@ -1,2 +1,2 @@
-# CodeFest_Program_2
- European TownShip
+# CodeFest_Pro_2
+ European Township
